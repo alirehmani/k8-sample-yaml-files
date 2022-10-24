@@ -3,6 +3,6 @@ kind: ConfigMap
 metadata:
   name: psql-staging-conn-string
 data:
-  DATABASE_NAME:
-  DATABASE_HOST:
-  DATABASE_PORT:
+  DATABASE_NAME: ""
+  DATABASE_HOST: ""
+  DATABASE_PORT: ""
